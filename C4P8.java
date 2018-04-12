@@ -2,7 +2,7 @@
 // Check if the string is a palindrome or not 
 import java.util.Stack;
 
-public class C4P8 {
+public class C4P8  {
 	
 	//Using stack Problem 10
 	//Push till you reach X
